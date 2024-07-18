@@ -17,7 +17,7 @@
 > Rendering HTML Templates with EJS:
 
 ![Screenshot (41)](https://github.com/user-attachments/assets/7c44f5d4-3551-4ec3-9174-c9cba7eef607)
-![Screenshot (41)](https://github.com/user-attachments/assets/3bf433a3-6bf7-4690-ad75-68a69d418ed9)
+
 
     The server uses the EJS templating engine to render HTML pages. When a user requests the root URL, the index.ejs template is rendered.
 
