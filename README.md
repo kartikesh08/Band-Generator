@@ -15,14 +15,15 @@
     Template Rendering: Displaying dynamic content using EJS templates.
 
 > Rendering HTML Templates with EJS:
-> 
-    ![Screenshot (41)](https://github.com/user-attachments/assets/ee231618-ee2e-4014-baba-ee6e385c1ad9)
-    
+
+![Screenshot (41)](https://github.com/user-attachments/assets/7c44f5d4-3551-4ec3-9174-c9cba7eef607)
+![Screenshot (41)](https://github.com/user-attachments/assets/3bf433a3-6bf7-4690-ad75-68a69d418ed9)
+
     The server uses the EJS templating engine to render HTML pages. When a user requests the root URL, the index.ejs template is rendered.
 
 > Generating Random Band Names:
 
-    ![Screenshot (40)](https://github.com/user-attachments/assets/c9a48d11-cef7-43c4-bd6d-c7824314e082)
+![Screenshot (40)](https://github.com/user-attachments/assets/e88799ac-3754-442b-8024-1bee55a5852c)
 
     The server has predefined arrays of adjectives and nouns. When a user submits the form, the server selects a random adjective and noun to create a band name.
     When the form is submitted, the server processes the POST request, generates a random band name, and re-renders the index.ejs template with the generated band name.
